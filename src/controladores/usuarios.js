@@ -1,5 +1,5 @@
 const { email, transporte, knex } = require("../conexao/conexao")
-const corpoDoEmail = require("../html/texto")
+const corpoDoEmail = require("../html/copilador")
 const Handlebars = require('handlebars')
 
 const testeEmail = async (req, res) => {
