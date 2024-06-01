@@ -1,0 +1,11 @@
+h1 {
+    margin: 10px;
+    color: red;
+    text-decoration: underline;
+}
+
+.corpo p {
+    margin: 10px;
+    background-color: red;
+    text-transform: lowercase;
+}
